@@ -11,29 +11,26 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+Package and sample application to change between two selected colors.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+![image](https://github.com/melihoznalbant/Change-Box-Color-SDK/assets/113714236/71c6cfb6-6702-4dca-8a6a-2d314c62cb6c)![image](https://github.com/melihoznalbant/Change-Box-Color-SDK/assets/113714236/5e3346cd-2dd8-48ae-92b1-8411af31a569)
 
-## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+## Supported Platforms
 
-## Usage
+* iOS
+* Android
+* Web
+* MacOS
+* Windows
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+The provider package has been used for managing state within the application.
+
+## Localization
+
+ flutter pub get, it will generate the code inside flutter_gen directory.
