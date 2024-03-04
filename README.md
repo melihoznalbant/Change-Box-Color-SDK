@@ -30,7 +30,3 @@ Package and sample application to change between two selected colors.
 ## Additional information
 
 The provider package has been used for managing state within the application.
-
-## Localization
-
- flutter pub get, it will generate the code inside flutter_gen directory.
